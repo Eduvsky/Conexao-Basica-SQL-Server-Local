@@ -1,0 +1,12 @@
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\obj\Debug\SGBD Practice SQL Server.csprojAssemblyReference.cache
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\obj\Debug\SGBD_Practice_SQL_Server.Form1.resources
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\obj\Debug\SGBD_Practice_SQL_Server.Properties.Resources.resources
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\obj\Debug\SGBD Practice SQL Server.csproj.GenerateResource.cache
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\obj\Debug\SGBD Practice SQL Server.csproj.CoreCompileInputs.cache
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\bin\Debug\Database.mdf
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\bin\Debug\Database_log.ldf
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\bin\Debug\SGBD Practice SQL Server.exe.config
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\bin\Debug\SGBD Practice SQL Server.exe
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\bin\Debug\SGBD Practice SQL Server.pdb
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\obj\Debug\SGBD Practice SQL Server.exe
+C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\obj\Debug\SGBD Practice SQL Server.pdb
