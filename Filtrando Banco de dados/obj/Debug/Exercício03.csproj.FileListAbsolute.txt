@@ -1,0 +1,12 @@
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\bin\Debug\Colegio.mdf
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\bin\Debug\Colegio_log.ldf
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\bin\Debug\Exercício03.exe.config
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\bin\Debug\Exercício03.exe
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\bin\Debug\Exercício03.pdb
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\obj\Debug\Exercício03.csprojAssemblyReference.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\obj\Debug\Exercício03.Form1.resources
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\obj\Debug\Exercício03.Properties.Resources.resources
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\obj\Debug\Exercício03.csproj.GenerateResource.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\obj\Debug\Exercício03.csproj.CoreCompileInputs.cache
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\obj\Debug\Exercício03.exe
+C:\Users\skyem\Documents\Code Projects\Visual studio\Exercícios\Exercícios\Exercício02-03\Exercício03\obj\Debug\Exercício03.pdb
