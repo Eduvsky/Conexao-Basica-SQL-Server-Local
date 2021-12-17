@@ -16,13 +16,13 @@ namespace SGBD_Practice_SQL_Server
         public Form1()
         {
             InitializeComponent();
-            string path = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=
-            ""C:\Users\skyem\source\repos\SGBD Practice SQL Server\SGBD Practice SQL Server\Database.mdf"";Integrated Security=True";
+            string path = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\"));
+            connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename='" + path + @"Database.mdf';Integrated Security=True";
 
             string consult = "SELECT * FROM Filme";
 
             // Cria uma conexão, um tunel para acessar o Banco de dados 
-            SqlConnection conection = new SqlConnection(path);
+            SqlConnection conection = new SqlConnection(connectionString);
             conection.Open();// <-- Aqui essa conexão / tunel é aberta
 
             // O Construtor dessa classe recebe dois parametros, a instrução SQL, e o tunel para envia-la
